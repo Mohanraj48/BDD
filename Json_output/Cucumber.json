@@ -1,0 +1,55 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "To testing the sample testcases",
+        "description": "",
+        "id": "sample-test;to-testing-the-sample-testcases",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 3,
+            "name": "Enter url",
+            "match": {
+              "location": "SampleStepDefinition.Enter_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User should enter username and password",
+            "match": {
+              "location": "SampleStepDefinition.User_should_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User should get login successfull message",
+            "match": {
+              "location": "SampleStepDefinition.User_should_get_login_successfull_message()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Sample test",
+    "description": "",
+    "id": "sample-test",
+    "keyword": "Feature",
+    "uri": "E:/shareit/Eclipse/ClassicBDD/src/main/java/Features/sample.feature"
+  }
+]
