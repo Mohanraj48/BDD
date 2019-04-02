@@ -15,7 +15,6 @@ import cucumber.api.junit.Cucumber;
 	
 	//	tags={"~@SmokeTest" , "@RegressionTest"}
 		
-		
 		)
 
 public class TestRunner {
